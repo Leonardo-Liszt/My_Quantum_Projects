@@ -5,9 +5,11 @@
 % =========================================================
 \usepackage{amsmath}
 \usepackage{braket}
+\usepackage{newtxtext,newtxmath}
+
 
 \usetikzlibrary{arrows.meta,decorations.pathmorphing}
-
+\everymath{\displaystyle}
 \begin{document}
 
 \begin{tikzpicture}[
@@ -17,7 +19,7 @@
     laser/.style={<->,line width=1.5pt,>=Stealth},         % 激光
     detune/.style={<->,line width=1.5pt,>=Stealth},            % 失谐 Δ
     int/.style={<->,line width=4pt,draw=gray!70,>=Stealth},
-    every node/.style={font=\Large,text=black}
+    every node/.style={font=\Large\bfseries,text=black}
 ]
 
 % =========================================================
@@ -55,7 +57,7 @@
 
 \draw[laser, blue]
     (\xA+2.5,\yzero) -- (\xA+2.5,\yrv)
-    node[midway,right] {$\Omega_r$};
+    node[midway,right,yshift=20px] {$\Omega_r$};
 
 % ----- Detunings -----
 \draw[detune,yellow!50!orange]
@@ -66,7 +68,7 @@
     (\xA+1.7,\yr) -- (\xA+1.7,\yrv)
     node[midway,left] {$\Delta_r$};
 
-\node at (\xA+1.4,-1.5) {Atom 1};
+\node at (\xA+1.5,-1.7) {Atom 1};
 
 % =========================================================
 % ===================== Atom 2 =============================
@@ -88,7 +90,7 @@
 
 \draw[laser, blue]
     (\xB+2.5,\yzero) -- (\xB+2.5,\yrv)
-    node[midway,right] {$\Omega_r$};
+    node[midway,right,yshift=20px] {$\Omega_r$};
 
 % ----- Detunings -----
 \draw[detune,yellow!50!orange]
@@ -99,7 +101,7 @@
     (\xB+1.7,\yr) -- (\xB+1.7,\yrv)
     node[midway,left] {$\Delta_r$};
 
-\node at (\xB+1.4,-1.5) {Atom 2};
+\node at (\xB+1.5,-1.7) {Atom 2};
 
 % =========================================================
 % ===================== Atom 3 (Λ) =========================
@@ -122,7 +124,7 @@
 
 \draw[laser, blue]
     (\xC+3.6,\yzero) -- (\xC+2.2,\yrv)
-    node[midway,right] {$\Omega_r$};
+    node[midway,right,yshift=20px] {$\Omega_r$};
 
 \draw[laser, red]
     (\xC+1.5,\yAv) -- (\xC+0.9,\yzero)
@@ -141,25 +143,25 @@
     (\xC+1.9,\yr) -- (\xC+1.9,\yrv)
     node[midway,left,xshift=-14pt] {$\Delta_r$};
 
-\node at (\xC+1.8,-1.5) {Atom 3};
+\node at (\xC+2,-1.7) {Atom 3};
 
 % =========================================================
 % ================= Rydberg interactions ===================
 % =========================================================
 
 \draw[int]
-    (\xA+3.5,\yrv-1.5) -- (\xB+0.9,\yrv-1.5)
+    (\xA+3.7,\yrv-1.5) -- (\xB+1.1,\yrv-1.5)
     node[midway,above] {$V_{12}$};
 
 \draw[int]
-    (\xB+3.5,\yrv-1.5) -- (\xC+0.9,\yrv-1.5)
+    (\xB+3.7,\yrv-1.5) -- (\xC+1.1,\yrv-1.5)
     node[midway,above] {$V_{23}$};
 
 \draw[int]
-  (\xA+2,\yrv+1)
+  (\xA+2.5,\yrv+1)
   to[out=20, in=160]
-  (\xC+2,\yrv+1)
-  node at(\xB+2,\yrv+1.4) {$V_{13}$};
+  (\xC+1.6,\yrv+1)
+  node at(\xB+2.1,\yrv+1.4) {$V_{13}$};
 
 \end{tikzpicture}
 
