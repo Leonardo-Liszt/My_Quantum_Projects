@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1768198961.48243 "d:/ScienceAPPs/My_Projects/My_Quantum_Projects/Thesis/CCNOT.tex" "CCNOT.pdf" "CCNOT" 1768198962.49923 0
+["pdflatex"] 1768199394.6835 "d:/ScienceAPPs/My_Projects/My_Quantum_Projects/Thesis/CCNOT.tex" "CCNOT.pdf" "CCNOT" 1768199395.82718 0
   "C:/Users/67461/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1768198920 122874 9195f0588e30cb644cb9f8108da0b71a ""
   "C:/Users/67461/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1750072961 13223875 c62ddaa13fb72dbdeaae0a3bccab606a ""
-  "CCNOT.aux" 1768198962 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "CCNOT.tex" 1768198957 5234 d2f8eb3a5c6b2b4f0c399f1e4f4c9500 ""
+  "CCNOT.aux" 1768199395 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "CCNOT.tex" 1768199393 6980 8700ebc32c0938d75121469afd881586 ""
   "D:/ScienceAPPs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1736607166 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "D:/ScienceAPPs/MiKTeX/fonts/tfm/public/newtx/NewTXMI.tfm" 1736607165 1408 ef71a9098da4d5a1a85b5920860b6731 ""
   "D:/ScienceAPPs/MiKTeX/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm" 1736607165 2976 0e6dc2c6c1f88a98285fe5183da02574 ""
@@ -158,7 +158,7 @@
   "D:/ScienceAPPs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "D:/ScienceAPPs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "D:/ScienceAPPs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "d:/ScienceAPPs/My_Projects/My_Quantum_Projects/Thesis/CCNOT.tex" 1768198957 5234 d2f8eb3a5c6b2b4f0c399f1e4f4c9500 ""
+  "d:/ScienceAPPs/My_Projects/My_Quantum_Projects/Thesis/CCNOT.tex" 1768199393 6980 8700ebc32c0938d75121469afd881586 ""
   (generated)
   "CCNOT.aux"
   "CCNOT.log"
