@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.6.17)  12 JAN 2026 17:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.16)  13 JAN 2026 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -12,14 +12,14 @@ Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (D:\ScienceAPPs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count271
-\c@section=\count272
-\c@subsection=\count273
-\c@subsubsection=\count274
-\c@paragraph=\count275
-\c@subparagraph=\count276
-\c@figure=\count277
-\c@table=\count278
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
@@ -40,14 +40,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count279
+\inf@bad=\count283
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count280
-\leftroot@=\count281
+\uproot@=\count284
+\leftroot@=\count285
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count282
-\DOTSCASE@=\count283
+\classnum@=\count286
+\DOTSCASE@=\count287
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -60,20 +60,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen151
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count284
+\macc@depth=\count288
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count285
+\c@MaxMatrixCols=\count289
 \dotsspace@=\muskip17
-\c@parentequation=\count286
-\dspbrk@lvl=\count287
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
 \tag@help=\toks18
-\row@=\count288
-\column@=\count289
-\maxfields@=\count290
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
 \andhelp@=\toks19
 \eqnshift@=\dimen152
 \alignsep@=\dimen153
@@ -106,9 +106,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (D:\ScienceAPPs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count291
-\Gm@cntv=\count292
-\c@Gm@tempcnt=\count293
+\Gm@cnth=\count295
+\Gm@cntv=\count296
+\c@Gm@tempcnt=\count297
 \Gm@bindingoffset=\dimen158
 \Gm@wd@mp=\dimen159
 \Gm@odd@mp=\dimen160
@@ -120,11 +120,9 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@dimlist=\toks23
  (D:\ScienceAPPs\MiKTeX\tex/latex/geometry\geometry.cfg)) (D:\ScienceAPPs\MiKTeX\tex/latex/ctex\ctex.sty (D:\ScienceAPPs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-05-26 L3 programming layer (loader) 
- (D:\ScienceAPPs\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2025-04-14 L3 backend support: XeTeX
-\g__graphics_track_int=\count294
-\g__pdfannot_backend_int=\count295
-\g__pdfannot_backend_link_int=\count296
+ (D:\ScienceAPPs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count298
 ))
 Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
  (D:\ScienceAPPs\MiKTeX\tex/latex/ctex\ctexhook.sty
@@ -264,113 +262,125 @@ LaTeX Encoding Info:    Redeclaring text symbol \texteuro (encoding TS1) on inpu
 LaTeX Encoding Info:    Redeclaring text symbol \texttimes (encoding TS1) on input line 193.
 LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input line 194.
 ))
-\l__ctex_tmp_int=\count297
+\l__ctex_tmp_int=\count299
 \l__ctex_tmp_box=\box55
 \l__ctex_tmp_dim=\dimen166
-\g__ctex_section_depth_int=\count298
-\g__ctex_font_size_int=\count299
+\g__ctex_section_depth_int=\count300
+\g__ctex_font_size_int=\count301
  (D:\ScienceAPPs\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
 File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
-) (D:\ScienceAPPs\MiKTeX\tex/latex/ctex/engine\ctex-engine-xetex.def
-File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
- (D:\ScienceAPPs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
-Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
- (D:\ScienceAPPs\MiKTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
-Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
+) (D:\ScienceAPPs\MiKTeX\tex/latex/ctex/engine\ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2022/07/14 v2.5.10 (pdf)LaTeX adapter (CTEX)
+ (D:\ScienceAPPs\MiKTeX\tex/latex/cjk\CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (D:\ScienceAPPs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (D:\ScienceAPPs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+) (D:\ScienceAPPs\MiKTeX\tex/latex/cjk\CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (D:\ScienceAPPs\MiKTeX\tex/latex/cjk/mule\MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (D:\ScienceAPPs\MiKTeX\tex/latex/cjk\CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
 )
-\l__xeCJK_tmp_int=\count300
-\l__xeCJK_tmp_box=\box56
-\l__xeCJK_tmp_dim=\dimen167
-\l__xeCJK_tmp_skip=\skip54
-\g__xeCJK_space_factor_int=\count301
-\l__xeCJK_begin_int=\count302
-\l__xeCJK_end_int=\count303
-\c__xeCJK_CJK_class_int=\XeTeXcharclass1
-\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
-\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
-\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
-\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
-\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
-\c__xeCJK_CM_class_int=\XeTeXcharclass7
-\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-\l__xeCJK_last_skip=\skip55
-\c__xeCJK_none_node=\count304
-\g__xeCJK_node_int=\count305
-\c__xeCJK_CJK_node_dim=\dimen168
-\c__xeCJK_CJK-space_node_dim=\dimen169
-\c__xeCJK_default_node_dim=\dimen170
-\c__xeCJK_CJK-widow_node_dim=\dimen171
-\c__xeCJK_normalspace_node_dim=\dimen172
-\c__xeCJK_default-space_node_skip=\skip56
-\l__xeCJK_ccglue_skip=\skip57
-\l__xeCJK_ecglue_skip=\skip58
-\l__xeCJK_punct_kern_skip=\skip59
-\l__xeCJK_indent_box=\box57
-\l__xeCJK_last_penalty_int=\count306
-\l__xeCJK_last_bound_dim=\dimen173
-\l__xeCJK_last_kern_dim=\dimen174
-\l__xeCJK_widow_penalty_int=\count307
-
-LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
-(template)           argument(s) on line 2396.
-
-\l__xeCJK_fixed_punct_width_dim=\dimen175
-\l__xeCJK_mixed_punct_width_dim=\dimen176
-\l__xeCJK_middle_punct_width_dim=\dimen177
-\l__xeCJK_fixed_margin_width_dim=\dimen178
-\l__xeCJK_mixed_margin_width_dim=\dimen179
-\l__xeCJK_middle_margin_width_dim=\dimen180
-\l__xeCJK_bound_punct_width_dim=\dimen181
-\l__xeCJK_bound_margin_width_dim=\dimen182
-\l__xeCJK_margin_minimum_dim=\dimen183
-\l__xeCJK_kerning_total_width_dim=\dimen184
-\l__xeCJK_same_align_margin_dim=\dimen185
-\l__xeCJK_different_align_margin_dim=\dimen186
-\l__xeCJK_kerning_margin_width_dim=\dimen187
-\l__xeCJK_kerning_margin_minimum_dim=\dimen188
-\l__xeCJK_bound_dim=\dimen189
-\l__xeCJK_reverse_bound_dim=\dimen190
-\l__xeCJK_margin_dim=\dimen191
-\l__xeCJK_minimum_bound_dim=\dimen192
-\l__xeCJK_kerning_margin_dim=\dimen193
-\g__xeCJK_family_int=\count308
-\l__xeCJK_fam_int=\count309
-\g__xeCJK_fam_allocation_int=\count310
-\l__xeCJK_verb_case_int=\count311
-\l__xeCJK_verb_exspace_skip=\skip60
- (D:\ScienceAPPs\MiKTeX\tex/latex/fontspec\fontspec.sty (D:\ScienceAPPs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
-)
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
- (D:\ScienceAPPs\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
-Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count312
-\l__fontspec_language_int=\count313
-\l__fontspec_strnum_int=\count314
-\l__fontspec_tmp_int=\count315
-\l__fontspec_tmpa_int=\count316
-\l__fontspec_tmpb_int=\count317
-\l__fontspec_tmpc_int=\count318
-\l__fontspec_em_int=\count319
-\l__fontspec_emdef_int=\count320
-\l__fontspec_strong_int=\count321
-\l__fontspec_strongdef_int=\count322
-\l__fontspec_tmpa_dim=\dimen194
-\l__fontspec_tmpb_dim=\dimen195
-\l__fontspec_tmpc_dim=\dimen196
- (D:\ScienceAPPs\MiKTeX\tex/latex/base\fontenc.sty
+\CJK@indent=\box56
+) (D:\ScienceAPPs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-) (D:\ScienceAPPs\MiKTeX\tex/latex/fontspec\fontspec.cfg))) (D:\ScienceAPPs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
-File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
-))
-\ccwd=\dimen197
-\l__ctex_ccglue_skip=\skip61
+)) (D:\ScienceAPPs\MiKTeX\tex/latex/cjkpunct\CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count302
+\CJKpunct@cntb=\count303
+\CJKpunct@cntc=\count304
+\CJKpunct@cntd=\count305
+\CJKpunct@cnte=\count306
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (D:\ScienceAPPs\MiKTeX\tex/latex/cjkpunct\CJKpunct.spa)) (D:\ScienceAPPs\MiKTeX\tex/latex/cjk\CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (D:\ScienceAPPs\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (D:\ScienceAPPs\MiKTeX\tex/latex/ctex\ctexspa.def
+File: ctexspa.def 2022/07/14 v2.5.10 Space info for CJKpunct (CTEX)
 )
-\l__ctex_ziju_dim=\dimen198
+\ccwd=\dimen167
+\l__ctex_ccglue_skip=\skip54
+)
+\l__ctex_ziju_dim=\dimen168
  (D:\ScienceAPPs\MiKTeX\tex/latex/zhnumber\zhnumber.sty
 Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
-\l__zhnum_scale_int=\count323
-\l__zhnum_tmp_int=\count324
+\l__zhnum_scale_int=\count307
+\l__zhnum_tmp_int=\count308
  (D:\ScienceAPPs\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
 )) (D:\ScienceAPPs\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-chinese.def
@@ -381,56 +391,28 @@ File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/ctex/fontset\ctex-fontset-windows.def
 File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "KaiTi/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimHei/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimSun/BI" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'SimSun(0)' created for font 'SimSun' with
-(fontspec)             options
-(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
-
 )) (D:\ScienceAPPs\MiKTeX\tex/latex/ctex/config\ctex.cfg
 File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/newtx\newtxtext.sty
 Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
  `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (D:\ScienceAPPs\MiKTeX\tex/latex/xpatch\xpatch.sty
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
- (D:\ScienceAPPs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+ (D:\ScienceAPPs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+) (D:\ScienceAPPs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count325
+\etb@tempcnta=\count309
 )) (D:\ScienceAPPs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (D:\ScienceAPPs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 274.
- (D:\ScienceAPPs\MiKTeX\tex/latex/graphics-def\xetex.def
-File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (D:\ScienceAPPs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
@@ -441,16 +423,16 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (D:\ScienceAPPs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (D:\ScienceAPPs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks24
-\XKV@tempa@toks=\toks25
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count326
+\XKV@depth=\count310
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (D:\ScienceAPPs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/xstring\xstring.sty (D:\ScienceAPPs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count327
-\xs_countb=\count328
+\xs_counta=\count311
+\xs_countb=\count312
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/base\ifthen.sty
@@ -461,35 +443,42 @@ LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
  (D:\ScienceAPPs\MiKTeX\tex/generic/binhex\binhex.tex)
-\ntx@tmpcnta=\count329
-\ntx@cnt=\count330
-LaTeX Info: Redefining \oldstylenums on input line 611.
-LaTeX Info: Redefining \liningnums on input line 615.
-\tx@sixem=\dimen199
-\tx@y=\dimen256
-\tx@x=\dimen257
-\tx@tmpdima=\dimen258
-\tx@tmpdimb=\dimen259
-\tx@tmpdimc=\dimen260
-\tx@tmpdimd=\dimen261
-\tx@tmpdime=\dimen262
-\tx@tmpdimf=\dimen263
-\tx@dimA=\dimen264
-\tx@dimAA=\dimen265
-\tx@dimB=\dimen266
-\tx@dimBB=\dimen267
-\tx@dimC=\dimen268
+\ntx@tmpcnta=\count313
+\ntx@cnt=\count314
+ (D:\ScienceAPPs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
+Applying: [2024-11-01] Use figureversions if present on input line 74.
+ (D:\ScienceAPPs\MiKTeX\tex/latex/figureversions\figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+)
+Already applied: [0000-00-00] Fall back to v1 on input line 76.
+)
+\tx@sixem=\dimen169
+\tx@y=\dimen170
+\tx@x=\dimen171
+\tx@tmpdima=\dimen172
+\tx@tmpdimb=\dimen173
+\tx@tmpdimc=\dimen174
+\tx@tmpdimd=\dimen175
+\tx@tmpdime=\dimen176
+\tx@tmpdimf=\dimen177
+\tx@dimA=\dimen178
+\tx@dimAA=\dimen179
+\tx@dimB=\dimen180
+\tx@dimBB=\dimen181
+\tx@dimC=\dimen182
+LaTeX Info: Redefining \oldstylenums on input line 902.
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/newtx\newtxmath.sty
 Package: newtxmath 2024/09/22 v1.754
  `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (D:\ScienceAPPs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count331
+\tx@cntz=\count315
  (D:\ScienceAPPs\MiKTeX\tex/generic/binhex\binhex.tex)
-\tx@Isdigit=\count332
-\tx@IsAlNum=\count333
-\tx@tA=\toks26
-\tx@tB=\toks27
+\tx@Isdigit=\count316
+\tx@IsAlNum=\count317
+\tx@tA=\toks28
+\tx@tB=\toks29
 \tx@su=\read2
 
 amsthm NOT loaded
@@ -502,11 +491,11 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 403.
 LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 410.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 410.
+(Font)                  OT1/cmss/m/n --> OT1/qhv/m/n on input line 410.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/m/n on input line 410.
+(Font)                  OT1/cmss/bx/n --> OT1/qhv/m/n on input line 410.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/b/n on input line 412.
+(Font)                  OT1/qhv/m/n --> OT1/qhv/b/n on input line 412.
 LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 419.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 419.
@@ -514,9 +503,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 419.
 LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 420.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 420.
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 420.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 420.
+(Font)                  OT1/cmtt/m/n --> OT1/ntxtt/m/n on input line 420.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 422.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 422.
@@ -525,7 +514,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 423.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 426.
+(Font)                  OT1/ntxtt/m/n --> OT1/ntxtt/b/n on input line 426.
 LaTeX Font Info:    Redeclaring symbol font `letters' on input line 534.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
 (Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 534.
@@ -537,6 +526,8 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
 (Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 582.
 LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 584.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
 LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 604.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 604.
@@ -554,6 +545,8 @@ LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
 \symsymbolsC=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
 (Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 651.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 664.
@@ -568,7 +561,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \symlargesymbolsTXA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
-\tx@sbptoks=\toks28
+\tx@sbptoks=\toks30
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
 LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 903.
 LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 904.
@@ -593,16 +586,16 @@ Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 106.
+Package graphics Info: Driver file: pdftex.def on input line 106.
 )
-\Gin@req@height=\dimen269
-\Gin@req@width=\dimen270
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks29
-\pgfutil@tempdima=\dimen271
-\pgfutil@tempdimb=\dimen272
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen185
+\pgfutil@tempdimb=\dimen186
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
-\pgfutil@abb=\box58
+\pgfutil@abb=\box57
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (D:\ScienceAPPs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
@@ -610,98 +603,94 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks30
-\pgfkeys@temptoks=\toks31
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks32
+\pgfkeys@tmptoks=\toks34
 ))
-\pgf@x=\dimen273
-\pgf@y=\dimen274
-\pgf@xa=\dimen275
-\pgf@ya=\dimen276
-\pgf@xb=\dimen277
-\pgf@yb=\dimen278
-\pgf@xc=\dimen279
-\pgf@yc=\dimen280
-\pgf@xd=\dimen281
-\pgf@yd=\dimen282
+\pgf@x=\dimen187
+\pgf@y=\dimen188
+\pgf@xa=\dimen189
+\pgf@ya=\dimen190
+\pgf@xb=\dimen191
+\pgf@yb=\dimen192
+\pgf@xc=\dimen193
+\pgf@yc=\dimen194
+\pgf@xd=\dimen195
+\pgf@yd=\dimen196
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count334
-\c@pgf@countb=\count335
-\c@pgf@countc=\count336
-\c@pgf@countd=\count337
-\t@pgf@toka=\toks33
-\t@pgf@tokb=\toks34
-\t@pgf@tokc=\toks35
-\pgf@sys@id@count=\count338
+\c@pgf@counta=\count318
+\c@pgf@countb=\count319
+\c@pgf@countc=\count320
+\c@pgf@countd=\count321
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count322
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
-Driver file for pgf: pgfsys-xetex.def
- (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-xetex.def
-File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
- (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+Driver file for pgf: pgfsys-pdftex.def
+ (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)
-\pgfsys@objnum=\count339
 ))) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count340
-\pgfsyssoftpath@bigbuffer@items=\count341
+\pgfsyssoftpath@smallbuffer@items=\count323
+\pgfsyssoftpath@bigbuffer@items=\count324
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen283
-\pgfmath@count=\count342
-\pgfmath@box=\box59
-\pgfmath@toks=\toks36
-\pgfmath@stack@operand=\toks37
-\pgfmath@stack@operation=\toks38
+\pgfmath@dimen=\dimen197
+\pgfmath@count=\count325
+\pgfmath@box=\box58
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count343
+\c@pgfmathroundto@lastzeros=\count326
 )) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen284
-\pgf@picmaxx=\dimen285
-\pgf@picminy=\dimen286
-\pgf@picmaxy=\dimen287
-\pgf@pathminx=\dimen288
-\pgf@pathmaxx=\dimen289
-\pgf@pathminy=\dimen290
-\pgf@pathmaxy=\dimen291
-\pgf@xx=\dimen292
-\pgf@xy=\dimen293
-\pgf@yx=\dimen294
-\pgf@yy=\dimen295
-\pgf@zx=\dimen296
-\pgf@zy=\dimen297
+\pgf@picminx=\dimen198
+\pgf@picmaxx=\dimen199
+\pgf@picminy=\dimen256
+\pgf@picmaxy=\dimen257
+\pgf@pathminx=\dimen258
+\pgf@pathmaxx=\dimen259
+\pgf@pathminy=\dimen260
+\pgf@pathmaxy=\dimen261
+\pgf@xx=\dimen262
+\pgf@xy=\dimen263
+\pgf@yx=\dimen264
+\pgf@yy=\dimen265
+\pgf@zx=\dimen266
+\pgf@zy=\dimen267
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen298
-\pgf@path@lasty=\dimen299
+\pgf@path@lastx=\dimen268
+\pgf@path@lasty=\dimen269
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen300
-\pgf@shorten@start@additional=\dimen301
+\pgf@shorten@end@additional=\dimen270
+\pgf@shorten@start@additional=\dimen271
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box60
-\pgf@hbox=\box61
-\pgf@layerbox@main=\box62
-\pgf@picture@serial@count=\count344
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count327
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen302
+\pgflinewidth=\dimen272
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen303
-\pgf@pt@y=\dimen304
-\pgf@pt@temp=\dimen305
+\pgf@pt@x=\dimen273
+\pgf@pt@y=\dimen274
+\pgf@pt@temp=\dimen275
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
@@ -710,17 +699,17 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen306
+\pgfarrowsep=\dimen276
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen307
-\pgf@sys@shading@range@num=\count345
-\pgf@shadingcount=\count346
+\pgf@max=\dimen277
+\pgf@sys@shading@range@num=\count328
+\pgf@shadingcount=\count329
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box63
+\pgfexternal@startupbox=\box62
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
@@ -731,165 +720,80 @@ File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box64
+\pgfnodeparttextbox=\box63
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen308
-\pgf@nodesepend=\dimen309
+\pgf@nodesepstart=\dimen278
+\pgf@nodesepend=\dimen279
 ) (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (D:\ScienceAPPs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen310
-\pgffor@skip=\dimen311
-\pgffor@stack=\toks39
-\pgffor@toks=\toks40
+\pgffor@iter=\dimen280
+\pgffor@skip=\dimen281
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
 )) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count347
-\pgfplotmarksize=\dimen312
+\pgf@plot@mark@count=\count330
+\pgfplotmarksize=\dimen282
 )
-\tikz@lastx=\dimen313
-\tikz@lasty=\dimen314
-\tikz@lastxsaved=\dimen315
-\tikz@lastysaved=\dimen316
-\tikz@lastmovetox=\dimen317
-\tikz@lastmovetoy=\dimen318
-\tikzleveldistance=\dimen319
-\tikzsiblingdistance=\dimen320
-\tikz@figbox=\box65
-\tikz@figbox@bg=\box66
-\tikz@tempbox=\box67
-\tikz@tempbox@bg=\box68
-\tikztreelevel=\count348
-\tikznumberofchildren=\count349
-\tikznumberofcurrentchild=\count350
-\tikz@fig@count=\count351
+\tikz@lastx=\dimen283
+\tikz@lasty=\dimen284
+\tikz@lastxsaved=\dimen285
+\tikz@lastysaved=\dimen286
+\tikz@lastmovetox=\dimen287
+\tikz@lastmovetoy=\dimen288
+\tikzleveldistance=\dimen289
+\tikzsiblingdistance=\dimen290
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count331
+\tikznumberofchildren=\count332
+\tikznumberofcurrentchild=\count333
+\tikz@fig@count=\count334
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count352
-\pgfmatrixcurrentcolumn=\count353
-\pgf@matrix@numberofcolumns=\count354
+\pgfmatrixcurrentrow=\count335
+\pgfmatrixcurrentcolumn=\count336
+\pgf@matrix@numberofcolumns=\count337
 )
-\tikz@expandcount=\count355
+\tikz@expandcount=\count338
  (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen321
-\pgfarrowlength=\dimen322
-\pgfarrowwidth=\dimen323
-\pgfarrowlinewidth=\dimen324
+\pgfarrowinset=\dimen291
+\pgfarrowlength=\dimen292
+\pgfarrowwidth=\dimen293
+\pgfarrowlinewidth=\dimen294
 ) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen325
-\pgfdecoratedremainingdistance=\dimen326
-\pgfdecoratedinputsegmentcompleteddistance=\dimen327
-\pgfdecoratedinputsegmentremainingdistance=\dimen328
-\pgf@decorate@distancetomove=\dimen329
-\pgf@decorate@repeatstate=\count356
-\pgfdecorationsegmentamplitude=\dimen330
-\pgfdecorationsegmentlength=\dimen331
+\pgfdecoratedcompleteddistance=\dimen295
+\pgfdecoratedremainingdistance=\dimen296
+\pgfdecoratedinputsegmentcompleteddistance=\dimen297
+\pgfdecoratedinputsegmentremainingdistance=\dimen298
+\pgf@decorate@distancetomove=\dimen299
+\pgf@decorate@repeatstate=\count339
+\pgfdecorationsegmentamplitude=\dimen300
+\pgfdecorationsegmentlength=\dimen301
 )
-\tikz@lib@dec@box=\box69
-) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (D:\ScienceAPPs\MiKTeX\tex/latex/newtx\TeXGyreTermesX.fontspec)
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Regular scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Regular scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Regular scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Bold scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Italic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Slanted scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-Slanted scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-BoldItalic scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-BoldSlanted scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             TeXGyreTermesX-BoldSlanted scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'TeXGyreTermesX(0)' created for font
-(fontspec)             'TeXGyreTermesX' with options [Ligatures = TeX,Scale =
-(fontspec)             1,Extension = .otf,SmallCapsFeatures={RawFeature =
-(fontspec)             +pcap},RawFeature=-ss05,Ligatures=TeX,Extension =
-(fontspec)             .otf,UprightFont = TeXGyreTermesX-Regular,BoldFont =
-(fontspec)             TeXGyreTermesX-Bold,ItalicFont =
-(fontspec)             TeXGyreTermesX-Italic,BoldItalicFont =
-(fontspec)             TeXGyreTermesX-BoldItalic,SlantedFont =
-(fontspec)             *-Slanted,BoldSlantedFont= *-BoldSlanted,Numbers =
-(fontspec)             {Monospaced,Lining}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Regular.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Bold.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Italic.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Italic.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
-(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Slanted.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
-(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-Slanted.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldItalic.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
-(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;mapping=tex-text;"
-(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[1]"[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
-
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
+\tikz@lib@dec@box=\box68
+) (D:\ScienceAPPs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (D:\ScienceAPPs\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (D:\ScienceAPPs\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 24.
+ (D:\ScienceAPPs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 24.
  (TOFFOLI_Thisis.aux)
 \openout1 = `TOFFOLI_Thisis.aux'.
@@ -908,8 +812,6 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 24.
@@ -917,6 +819,70 @@ LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 2
  (D:\ScienceAPPs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 24.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 24.
@@ -934,9 +900,9 @@ LaTeX Info: Command `\dddot' is already robust on input line 24.
 LaTeX Info: Command `\ddddot' is already robust on input line 24.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -967,12 +933,37 @@ LaTeX Info: Command `\ddddot' is already robust on input line 24.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
+(D:\ScienceAPPs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count340
+\scratchdimen=\dimen302
+\scratchbox=\box69
+\nofMPsegments=\count341
+\nofMParguments=\count342
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count343
+\MPscratchDim=\dimen303
+\MPnumerator=\count344
+\makeMPintoPDFobject=\count345
+\everyMPtoPDFconversion=\toks44
+) (D:\ScienceAPPs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (D:\ScienceAPPs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@mv@tabular=\count346
+\c@mv@boldtabular=\count347
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 27.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 17.28pt on input line 27.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 27.
+ (D:\ScienceAPPs\MiKTeX\tex/latex/ctex/fd\c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+)
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 94.
-(D:\ScienceAPPs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+ (D:\ScienceAPPs\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -1043,6 +1034,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 12.5pt on input line 94.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 9.4pt on input line 94.
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 238.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
 (Font)              scaled to size 12.0pt on input line 238.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -1091,20 +1083,28 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 8.8pt on input line 238.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 6.6pt on input line 238.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.4pt on input line 241.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 241.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 246.
+ (D:\ScienceAPPs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 246.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.8pt on input line 253.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.6pt on input line 253.
 
 
-[1
+(D:\ScienceAPPs\MiKTeX\tex/generic/ctex/zhmap\ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{C:/Users/67461/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
 
-]
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
+{D:/ScienceAPPs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{D:/ScienceAPPs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 277.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
 (Font)              scaled to size 14.4pt on input line 317.
@@ -1163,8 +1163,8 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 [4]
 
 [5]
-Overfull \hbox (49.08173pt too wide) in paragraph at lines 448--450
-\TU/SimSun(0)/m/n/12 消 去 $\LMS/ntxsy/m/n/12 j\OML/ntxmi/m/it/12 RRR\LMS/ntxsy/m/n/12 i$ \TU/SimSun(0)/m/n/12 态  |（第 \TU/TeXGyreTermesX(0)/m/n/12 9 \TU/SimSun(0)/m/n/12 行 第 \TU/TeXGyreTermesX(0)/m/n/12 9 \TU/SimSun(0)/m/n/12 列）|  后，|  得 到 在 计 算 基 $\LMS/ntxsy/m/n/12 fj\OT1/minntx/m/n/12 000\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 001\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 010\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 011\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 100\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 101\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 110\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 111\LMS/ntxsy/m/n/12 ig$
+Overfull \hbox (54.22504pt too wide) in paragraph at lines 448--450
+\C70/rm/m/n/12/6d � \C70/rm/m/n/12/53 � $\LMS/ntxsy/m/n/12 j\OML/ntxmi/m/it/12 RRR\LMS/ntxsy/m/n/12 i$ \C70/rm/m/n/12/60 ^^A |\C70/rm/m/n/12/ff ^^H|\C70/rm/m/n/12/7b ,\OT1/minntx/m/n/12 9\C70/rm/m/n/12/88 L \C70/rm/m/n/12/7b ,\OT1/minntx/m/n/12 9\C70/rm/m/n/12/52 ^^W|\C70/rm/m/n/12/ff 	| \C70/rm/m/n/12/54 ^^N|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5f � \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/8b � \C70/rm/m/n/12/7b � \C70/rm/m/n/12/57 � $\LMS/ntxsy/m/n/12 fj\OT1/minntx/m/n/12 000\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 001\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 010\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 011\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 100\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 101\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 110\LMS/ntxsy/m/n/12 i\OML/ntxmi/m/it/12 ; \LMS/ntxsy/m/n/12 j\OT1/minntx/m/n/12 111\LMS/ntxsy/m/n/12 ig$
  []
 
 
@@ -1176,12 +1176,17 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 23121 strings out of 403341
- 510108 string characters out of 5467882
- 903615 words of memory out of 5000000
- 51070 multiletter control sequences out of 15000+600000
- 668406 words of font info for 166 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 93i,11n,111p,482b,765s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 22611 strings out of 468225
+ 430904 string characters out of 5444036
+ 790616 words of memory out of 5000000
+ 50380 multiletter control sequences out of 15000+600000
+ 731555 words of font info for 339 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,11n,92p,848b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/ScienceAPPs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><D:/ScienceAPPs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><D:/ScienceAPPs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><D:/ScienceAPPs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><D:/ScienceAPPs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><D:/ScienceAPPs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><D:/ScienceAPPs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><D:/ScienceAPPs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
+Output written on TOFFOLI_Thisis.pdf (6 pages, 621750 bytes).
+PDF statistics:
+ 555 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on TOFFOLI_Thisis.xdv (6 pages, 63992 bytes).
