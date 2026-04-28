@@ -1,0 +1,73 @@
+\documentclass[UTF8]{ctexart}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
+
+\begin{document}
+\begin{center}
+\begin{tikzpicture}[
+    >=Latex,
+    line/.style={draw, -{Latex[length=2mm]}},
+    root/.style={rectangle, draw, rounded corners, fill=blue!12, 
+                             minimum width=50mm, minimum height=9mm, align=center, font=\bfseries},
+    module/.style={rectangle, draw, rounded corners, fill=teal!10, 
+                                 minimum width=34mm, minimum height=8mm, align=center, font=\bfseries},
+    item/.style={rectangle, draw, rounded corners, fill=gray!8, 
+                             minimum width=34mm, minimum height=7mm, align=center, font=\small}
+]
+
+% 顶层
+\node[root] (root) at (0,0) {她韵服装购买网站系统};
+
+% 一级模块（均匀三列）
+\node[module] (user)     at (-8,-2.2) {用户功能};
+\node[module] (merchant) at ( 0,-2.2) {商家功能};
+\node[module] (admin)    at ( 8,-2.2) {管理员功能};
+
+\draw[line] (root) -- (user);
+\draw[line] (root) -- (merchant);
+\draw[line] (root) -- (admin);
+
+% 用户功能子项
+\foreach [count=\i] \txt in {
+    账户管理\\注册、登录、修改信息,
+    商品浏览与搜索,
+    购物车管理,
+    在线支付,
+    订单管理,
+    个人中心,
+    评价反馈,
+    在线咨询
+}{
+    \node[item] (u\i) at (-8, {-2.2-1.05*\i}) {\txt};
+    \draw[line] (user) -- (u\i);
+}
+
+% 商家功能子项
+\foreach [count=\i] \txt in {
+    商品管理,
+    订单处理,
+    店铺管理,
+    库存管理,
+    客户服务,
+    数据统计
+}{
+    \node[item] (m\i) at (0, {-2.2-1.05*\i}) {\txt};
+    \draw[line] (merchant) -- (m\i);
+}
+
+% 管理员功能子项
+\foreach [count=\i] \txt in {
+    用户管理,
+    商家管理,
+    商品审核,
+    订单管理,
+    内容管理,
+    数据统计报表
+}{
+    \node[item] (a\i) at (8, {-2.2-1.05*\i}) {\txt};
+    \draw[line] (admin) -- (a\i);
+}
+
+\end{tikzpicture}
+\end{center}
+\end{document}
